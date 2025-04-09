@@ -27,13 +27,13 @@ The dataset contains information about movies and TV shows available on Netflix,
 ## Key Visualizations
 
 ### 1. Rating Over Time
-![Rating Over Time](/storage/emulated/0/Pictures/Screenshots/Screenshot_2025_0410_015205.png)
+![Rating Over Time](/storage/emulated/0/DCIM/Camera/Screenshot_2025_0410_015205.png)
 
 ### 2. Average Release Year by Rating
-![Avg Release Year](/storage/emulated/0/Pictures/Screenshots/Screenshot_2025_0410_013146.png)
+![Avg Release Year](/storage/emulated/0/DCIM/Camera/Screenshot_2025_0410_013146.png)
 
 ### 3. Rating Distribution
-![Rating Distribution](/storage/emulated/0/Pictures/Screenshots/Screenshot_2025_0410_012319.png)
+![Rating Distribution](/storage/emulated/0/DCIM/Camera/Screenshot_2025_0410_015205.png)
 
 ## Insights
 - Most shows are rated **TV-MA**, followed by **TV-14**.
