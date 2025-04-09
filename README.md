@@ -15,7 +15,7 @@ The dataset contains information about movies and TV shows available on Netflix,
 - Rating
 - Duration
 - Genre (Category)
-- Description
+- Descriptions 
 
 ## Tools Used
 - Python
